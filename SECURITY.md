@@ -83,7 +83,7 @@ Instead, please report security vulnerabilities through one of the following met
    - Provide detailed information about the vulnerability
 
 2. **Email**
-   - Send an email to: **security@chippr-robotics.com**
+   - Send an email to: **security@chipprbots.com**
    - Use PGP encryption if possible (key available on request)
    - Include "SECURITY" in the subject line
 
